@@ -19,10 +19,10 @@ browser = webdriver.Chrome("C:\Program Files (x86)\Google\Chrome\chromedriver.ex
 browser.get('https://www.facebook.com/') 
 
 # user_name or e-mail id 
-username = "youmissihit19@gmail.com"
+username = "your email id"
 
 # getting passowrd from text file 
-password="youmissihit1908"
+password="yourpassword"
 
 print("Let's Begin") 
 
